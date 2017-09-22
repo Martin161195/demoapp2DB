@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://admin:passw0rd@ds159767.mlab.com:59767/demo1
